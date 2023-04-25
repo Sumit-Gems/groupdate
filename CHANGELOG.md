@@ -1,3 +1,7 @@
+## 6.2.2 (unreleased)
+
+- Added `year_start` option
+
 ## 6.2.1 (2023-04-18)
 
 - Fixed extra day with `DateTime` ranges
