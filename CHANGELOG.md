@@ -1,6 +1,14 @@
-## 6.2.0 (unreleased)
+## 6.2.2 (unreleased)
 
 - Added `year_start` option
+
+## 6.2.1 (2023-04-18)
+
+- Fixed extra day with `DateTime` ranges
+
+## 6.2.0 (2023-01-29)
+
+- Added support for async methods with Active Record 7.1
 
 ## 6.1.0 (2022-04-05)
 
